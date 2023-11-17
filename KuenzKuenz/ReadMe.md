@@ -22,6 +22,7 @@ waved my nude arms at villages going by,
 learning the last bright routes, survivor   
 where your flames still bite my thigh
 and my ribs crack where your wheels wind.   
+
 A woman like that is not ashamed to die. 
 I have been her kind.
 
