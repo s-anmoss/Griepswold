@@ -8,8 +8,3 @@
 |-|-|-|-|
 |-|-|-|-|
 
-
-
-Ö is the ; (or : ) key
-Ä is the ‘ (or “ ) key
-Å is the [ (or { ) key
