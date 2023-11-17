@@ -1,5 +1,5 @@
-# *Her Kind*
-## Anne Sexton
+# Her Kind
+#### Anne Sexton
 
 I have gone out, a possessed witch, <br>
 haunting the black air, braver at night; <br>
