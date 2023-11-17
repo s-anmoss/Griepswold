@@ -9,3 +9,6 @@
 **Definition Projektdokumentation:**
 
 *„Zusammenstellung ausgewählter, wesentlicher Daten über Konfiguration, Organisation, Mitteleinsatz, Lösungswege, Ablauf und erreichte Ziele des Projektes“.*
+
+### Thema: Historische Begriffsveränderung
+-> **Bezug zur Historischen Semantik**
