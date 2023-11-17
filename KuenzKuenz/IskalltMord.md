@@ -2,9 +2,9 @@
 |-----|-------------| -------------| ---|
 |utanför| außerhalb| adverb|-|
 |om X timmar | in X Stunden |fras (preposition)|-|
-|axel|Schulter|substantiv|utrum|
-|-|-|-|-|
-|-|-|-|-|
+|en axel|Schulter|substantiv|utrum|
+|att versöka|versuchen|verb|-|
+|jag versöker sova|Ich versuche zu schlafen| fras (verb)|-|
 |-|-|-|-|
 |-|-|-|-|
 
