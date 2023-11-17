@@ -9,21 +9,21 @@ lonely thing, twelve-fingered, out of mind. <br>
 A woman like that is not a woman, quite. <br>
 I have been her kind. <br>
 
-I have found the warm caves in the woods,
-filled them with skillets, carvings, shelves,
-closets, silks, innumerable goods;
-fixed the suppers for the worms and the elves:
-whining, rearranging the disaligned.
-A woman like that is misunderstood.
-I have been her kind.
+I have found the warm caves in the woods, <br>
+filled them with skillets, carvings, shelves, <br>
+closets, silks, innumerable goods; <br>
+fixed the suppers for the worms and the elves: <br>
+whining, rearranging the disaligned. <br>
+A woman like that is misunderstood. <br>
+I have been her kind. <br>
 
-I have ridden in your cart, driver,
-waved my nude arms at villages going by,   
-learning the last bright routes, survivor   
-where your flames still bite my thigh
-and my ribs crack where your wheels wind.   
-
-A woman like that is not ashamed to die. 
-I have been her kind.
+I have ridden in your cart, driver, <br>
+waved my nude arms at villages going by, <br>
+learning the last bright routes, survivor <br>
+where your flames still bite my thigh <br>
+and my ribs crack where your wheels wind. <br>
+<br>
+A woman like that is not ashamed to die. <br>
+I have been her kind. <br>
 
 
