@@ -4,3 +4,4 @@
 - Deutsch - Englisch - Schwedisch: gemeinsame Wörter
 - Gendervarianten in Unidokumenten
 - Namen von Transpersonen -> Daten??
+- eingedeutschte Englische Formulierungen / Redewendungen 
