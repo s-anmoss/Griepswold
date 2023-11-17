@@ -7,5 +7,4 @@
 |jag versöker sova|Ich versuche zu schlafen| fras (verb)|-|
 |-|-|-|-|
 |-|-|-|-|
-|-----|-------------| -------------| ---|
-miep
+
