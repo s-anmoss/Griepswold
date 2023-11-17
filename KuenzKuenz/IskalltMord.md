@@ -1,1 +1,3 @@
-
+| ord | Übersetzung |
+|-----|-------------|
+|utanför| außerhalb| 
