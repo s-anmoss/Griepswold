@@ -1,4 +1,4 @@
-# *Her Kind*
+*# Her Kind*
 ## Anne Sexton
 
 I have gone out, a possessed witch, <br>
