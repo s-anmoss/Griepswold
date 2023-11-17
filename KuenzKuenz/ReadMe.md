@@ -1,13 +1,13 @@
 # Her Kind
 ## Anne Sexton
 
-I have gone out, a possessed witch,
-haunting the black air, braver at night;
-dreaming evil, I have done my hitch
-over the plain houses, light by light:
-lonely thing, twelve-fingered, out of mind.
-A woman like that is not a woman, quite.
-I have been her kind.
+I have gone out, a possessed witch, <br>
+haunting the black air, braver at night; <br>
+dreaming evil, I have done my hitch <br>
+over the plain houses, light by light: <br>
+lonely thing, twelve-fingered, out of mind. <br>
+A woman like that is not a woman, quite. <br>
+I have been her kind. <br>
 
 I have found the warm caves in the woods,
 filled them with skillets, carvings, shelves,
