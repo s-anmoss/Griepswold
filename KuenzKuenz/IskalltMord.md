@@ -7,3 +7,9 @@
 |jag versöker sova|Ich versuche zu schlafen| fras (verb)|-|
 |-|-|-|-|
 |-|-|-|-|
+
+
+
+Ö is the ; (or : ) key
+Ä is the ‘ (or “ ) key
+Å is the [ (or { ) key
