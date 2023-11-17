@@ -1,4 +1,4 @@
-Im folgenden wird ein Kriegsverbrechen der Antike beschrieben
+Im Folgenden wird ein Kriegsverbrechen der Antike beschrieben
 
 > Alexander in urbibus capiendis igne usus est.
 
