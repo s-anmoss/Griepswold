@@ -1,8 +1,8 @@
-| ord | Übersetzung |
+| ord | Übersetzung | ordklass | genus |
 |-----|-------------|
 |utanför| außerhalb| 
-|om timmar | in X Stunden |
-|att dra över| überziehen|
+|om X timmar | in X Stunden |
+|-|-|
 |-|-|
 |-|-|
 |-|-|
