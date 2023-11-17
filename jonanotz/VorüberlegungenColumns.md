@@ -11,8 +11,8 @@ Recherche
 - RankingWahlJahr
 
 Analyse händisch
-- Silbenanzahl
-- Offene / geschlossene Silben
+- Silbenanzahl -> falls Silbentrennung händisch eingetragen, auch in R analysierbar (z.B. Column Silben Jo - na)
+- Offene / geschlossene Silben -> falls Silbentrennung händisch eingetragen, auch in R analysierbar (z.B. Column Silben Jo - na)
 - Betonung
 
 Analyse in R
