@@ -1,4 +1,4 @@
-| ord | Übersetzung | ordklass/fras | genus |
+| ord | Übersetzung | ordklass/fras | genus | testerinoooooooooooooooooooooooooooooo
 |-----|-------------| -------------| ---|
 |utanför| außerhalb| adverb|-|
 |om X timmar | in X Stunden |fras (preposition)|-|
