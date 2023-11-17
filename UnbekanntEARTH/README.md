@@ -6,4 +6,5 @@
 - Projektportfolio: eigenes kleines Projekt, das entweder exemplarischen Charakter hat oder zu einer tatsächlich geplanten Studie (z.B. Semester- oder Abschlussarbeit) passt. Die technische Infrastruktur wird durch bspw. Tabellen aufzeigt.
 - ...
 
-**Definition Projektdokumentation: *„Zusammenstellung ausgewählter, wesentlicher Daten über Konfiguration, Organisation, Mitteleinsatz, Lösungswege, Ablauf und erreichte Ziele des Projektes“.***
+**Definition Projektdokumentation:**
+*„Zusammenstellung ausgewählter, wesentlicher Daten über Konfiguration, Organisation, Mitteleinsatz, Lösungswege, Ablauf und erreichte Ziele des Projektes“.*
