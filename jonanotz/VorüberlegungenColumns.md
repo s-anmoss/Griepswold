@@ -10,10 +10,15 @@ Recherche
 - RankingJahrgang
 - RankingWahlJahr
 
-Analyse
+Analyse händisch
+- Silbenanzahl
+- Offene / geschlossene Silben
+- Betonung
+
+Analyse in R
 - Anfangsbuchstabe
 - Endbuchstabe
 - Vokalanteil
 - Konsonantenarten (evtl jede Art eine Column)
 - Buchstabenanzahl
-- Silbenanzahl
+
