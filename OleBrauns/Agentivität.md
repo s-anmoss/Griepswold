@@ -1,10 +1,10 @@
-# Wie viel Agentivität haben einzelne Agentes?
+# Wie viel Agentivität haben die Subjekte?
 
 
-Zunächst wird ein Text für die Analyse ausgewählt: https://www.spiegel.de/politik/deutschland/linken-politiker-stellen-sich-hinter-greta-thunberg-a-13d5c013-9fa8-4173-be57-77f8820ca508?sara_ref=re-xx-cp-sh
+## Zunächst wird ein Text für die Analyse ausgewählt: https://www.spiegel.de/politik/deutschland/linken-politiker-stellen-sich-hinter-greta-thunberg-a-13d5c013-9fa8-4173-be57-77f8820ca508?sara_ref=re-xx-cp-sh
 
 
-Es folgt der Text abzüglich Überschrift in Sätzen:
+## Es folgt der Text abzüglich Überschrift in Sätzen:
 
 
 1. Auf dem Parteitag in Augsburg will die Linke auch über den Nahostkonflikt diskutieren.
@@ -18,7 +18,7 @@ Es folgt der Text abzüglich Überschrift in Sätzen:
 9. Ex-Linkenchef Bernd Riexinger allerdings, der sich besonders mit dem Klimathema beschäftigt, verteidigt Thunberg.
 10. »Der Umgang mit ihr ist zu hart.
 
-Im nächsten Schritt werden die Agentes fett markiert und Sätze ohne Agens gestrichen.
+## Im nächsten Schritt werden die Subjekte fett markiert und Sätze ohne Agens gestrichen.
 
 
 1. Auf dem Parteitag in Augsburg will **die Linke** auch über den Nahostkonflikt diskutieren.
@@ -29,4 +29,24 @@ Im nächsten Schritt werden die Agentes fett markiert und Sätze ohne Agens gest
 6. So trat **Thunberg** mit einem Palästinensertuch bei einer Klimademonstration in Amsterdam auf und skandierte:
 7. In Deutschland distanzierten sich **Aktivisten** und **Politiker** von Thunberg.
 8. **Ex-Linkenchef Bernd Riexinger** allerdings, der sich besonders mit dem Klimathema beschäftigt, verteidigt Thunberg.
+
+
+## 
+
+
+### Agentivitätskomponenten/Subjektrollen nach Dowty 1991+
+Verursachung (Kaus)
+Kontrollfähigkeit (Kont)
+Experiencer (Exp)
+Instrument (Ins)
+Theme (The)
+Sentience (Sent)
+Volontalität (Vol)
+selbstinduzierte Bewegung (Bew)
+Besitz (Bes)
+Lokativ (Lok)
+
+
+
+
 
