@@ -1,4 +1,5 @@
 # Dokumentation zur Datei: *Brauns, Ole_Erste Sprachprobe ever + Annotation.eaf*
+
 - Die Aufnahme wurde von Juliane Künzel, deutsche (thüringische) Mutterschprachlerin am 20.11.2023 eigens für diese Aufgabe in Greifswald angefertigt.
 - Dabei war ein Mangel an Disziplin (hinsichtlich Klarheit und Kürze) erkennbar, der zu einem Mehraufwand auf meiner Seite führte.
 - Das Problem wurde durch meine meisterhaften Annotationsfähigkeiten bewältigt. 
