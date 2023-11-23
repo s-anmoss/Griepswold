@@ -1,7 +1,7 @@
 # Griepswold
 Git-Übungen
 
-Dieses Verzeichnis enthält Kode, der bei Übungen zu git und GitHub mit Studierenden and der [Universität Greifswald](https://de.wikipedia.org/wiki/Universität Greifswald) entstanden ist, darunter vor allem XML-Annotationen mit Hilfe des Programms [ELAN](https://de.wikipedia.org/wiki/ELAN_software).
+Dieses Verzeichnis enthält Kode, der bei Übungen zu git und GitHub mit Studierenden and der [Universität Greifswald](https://de.wikipedia.org/wiki/Universität_Greifswald) entstanden ist, darunter vor allem XML-Annotationen mit Hilfe des Programms [ELAN](https://de.wikipedia.org/wiki/ELAN_software).
 
 Diese Readme-Datei dokumentiert das Projekt und enthält praktische Hinweise.
 
