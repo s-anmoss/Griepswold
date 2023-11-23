@@ -1,7 +1,9 @@
 # Meehkals Projektdokumentation
 
-Das ist ein Projekt zum Flämingplatt.
+Das ist ein exemplarisches Projekt zum [Flämingplatt](https://de.wikipedia.org/wiki/Flämingplatt). Damit möchte ich gute Praxis bei der Datenarbeit illustrieren.
 
-Folgende Unterordner:
+Das Verzeichnis enthält die folgende Unterordner:
 - Corpus
-- Dokumentation
+  - für die eigentlichen Korpusdaten im Formal .eaf (ELAN)
+- Incoming
+  - für Rohdaten
