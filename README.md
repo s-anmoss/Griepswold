@@ -1,30 +1,24 @@
 # Griepswold
 Git-Übungen
 
-Dieses Verzeichnis enthält Kode, der bei Übungen zu git und GitHub mit Studierenden and der [Universität Greifswald](https://de.wikipedia.org/wiki/Universität_Greifswald) entstanden ist, darunter vor allem XML-Annotationen mit Hilfe des Programms [ELAN](https://de.wikipedia.org/wiki/ELAN_software).
+Dieses Verzeichnis enthält Kode, der bei Übungen zu git und GitHub mit Studierenden and der [Universität Greifswald](https://de.wikipedia.org/wiki/Universität_Greifswald) entstanden ist, darunter vor allem XML-Annotationen mit Hilfe des Programms [ELAN](https://de.wikipedia.org/wiki/ELAN_software) und Literaturdatenbanken im Format [BiBTeX]([https://de.wikipedia.org/wiki/](https://de.wikipedia.org/wiki/BibTeX).
 
 Diese Readme-Datei dokumentiert das Projekt und enthält praktische Hinweise.
 
 # ﻿GIT mit der Kommandozeile nutzen
 
-Es gibt viele Anleitungen im Internet, z.B. bei [rogerdudler.github.io](https://rogerdudler.github.io/git-guide/index.html)
-
-In der Kommandozeile die folgenden Befehle ausführen.
+Es gibt viele Anleitungen im Internet, z.B. bei [rogerdudler.github.io](https://rogerdudler.github.io/git-guide/index.html).
 
 Start
 * `git init` = initiiert das Programm Git im aktuellen Verzeichnis
 * `git clone {URL als Pfad}` = klont ein Verzeichnis aus der Cloud auf den eigenen Computer, z.B. von https://github.com/meehkal/Griepswold/
-
 Status überprüfen
 * `git status`
- 
 Lokalen Klon auf den Stand der zentralen Cloud bringen
 * `git pull`
-  
 Lokale Änderungen auf der zentralen Cloud speichern
 * `git commit -m "{Log-Nachricht}" {Name (der geänderten Datei)}` = wenn Datei bereits in der Cloud existiert
 * `git push`
-
 Neue Datei (oder neuer Ordner) lokal anlegen
 * `git add {Name (der neuen Datei)}` = wenn Datei noch nicht in der Cloud existiert
 * `git commit -m "{Log-Nachricht}" {Name (der neuen Datei)}`
