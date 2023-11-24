@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-11-23T16:01:55+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-11-23T16:14:08+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,10 +7,20 @@
             MEDIA_URL="file:///Users/mac/Music/Music/Media.localized/Unknown Artist/Unknown Album/19350522HH1800wSchoneiche_14300200.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../Music/Music/Media.localized/Unknown Artist/Unknown Album/19350522HH1800wSchoneiche_14300200.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:137d25e0-5346-40f7-8365-313fcda9938b</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">0</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1</PROPERTY>
     </HEADER>
-    <TIME_ORDER/>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="14200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="21010"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Küche rene morgen 	 die innere die Kuah füttere   			die Pötte</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
         LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
     <CONSTRAINT
