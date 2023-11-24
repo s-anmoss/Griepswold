@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-11-15T17:19:52+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-11-24T10:02:20+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
             MEDIA_URL="file:///Users/micharie/Library/CloudStorage/OneDrive-UniversityofEasternFinland/Flamingish/Corpus/19350522HH1800wSchoneiche_14290200/19350522HH1800wSchoneiche_14290200.wav"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./19350522HH1800wSchoneiche_14290200.wav"/>
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../Library/CloudStorage/OneDrive-UniversityofEasternFinland/Flamingish/Corpus/19350522HH1800wSchoneiche_14290200/19350522HH1800wSchoneiche_14290200.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:727151ff-1e3b-4642-8908-ce2ab79ded94</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">315</PROPERTY>
     </HEADER>
@@ -1424,7 +1424,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a11">
-                <ANNOTATION_VALUE>Wo der (eingesenkt) war, da hat er das ganze Gehöft abgebrannt.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Wo der eingesegnet war, da hat er das ganze Gehöft abgebrannt.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
