@@ -1,1 +1,1 @@
-eine Gruppe mit Ida Köppe und Lara Buske
+in einer Gruppe mit Ida Köppe und Lara Buske
