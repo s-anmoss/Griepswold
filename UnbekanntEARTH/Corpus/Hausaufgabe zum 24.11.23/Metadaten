@@ -1,1 +1,10 @@
+Die Aufgaben:
 
+- Eine beliebige Audiodatei exemplarisch in ELAN annotieren
+  - Audiodatei (wav) lokal auf dem Rechner speichern
+  - ELAN-Datei (eaf) unter Deinem Ordner in unserem GitHub speichern
+  - Dokumentation anlegen (readme.md): An Dateinamen denken!
+  - 2 Intonationseinheiten (z.B. 10–20 Wörter) transkribieren
+
+Im Rahmen dieser Aufgabe ist die Ordnerstruktur "Corpus" und "Hausaufgaben zum 24.11.23" erstellt worden.
+Zwei ELAN-Dateien (.eaf) mit gesamt vier Intonationseinheiten sowie einer dazugehörigen Textdatei (.txt) sind darunter hochgeladen.
