@@ -1,1 +1,2 @@
-mit Annett zusammen gearbeitet 
+mit Annett zusammen gearbeitet, da kein eigener Laptop
+
