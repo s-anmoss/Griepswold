@@ -1,4 +1,5 @@
 bearbeitet von: jonanotz, janapith
+Benotung des Portfolios nötig für jonanotz
 
 Projektidee: selbstgewälte Namen von Transpersonen
 Fragestellungen: 
