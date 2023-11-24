@@ -1,2 +1,4 @@
 # Jana
-Hier speichere ich die Audiodatei ab
+1. Elan Datei
+2. unter DigMetLiteratur findet sich die Bibdesk Datei für unsere Literatur
+
