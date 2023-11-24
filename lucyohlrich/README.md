@@ -1,5 +1,1 @@
-# wenn ich jetzt hier so schreibe #
-* ob das dann funktioniert
-- seht ihr das?
-
-- ich sehe das
+eine Gruppe mit Ida Köppe und Lara Buske
