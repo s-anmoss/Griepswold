@@ -1,0 +1,259 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Book rdf:about="urn:isbn:978-0-553-10803-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>A song of ice and fire</dc:title>
+                <dc:identifier>bk. 2</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Bantam Books</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>George R. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>George R. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_5"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Fantasy fiction</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A clash of kings</dc:title>
+        <dc:date>1999</dc:date>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>PS3563.A7239 C58 1999</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-553-10803-3</dc:identifier>
+        <z:numPages>761</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_5">
+        <rdf:value>Sequel to: A game of thrones Includes two maps of the territory of A clash of kings on endpapers</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-0-553-10354-0">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>A song of ice and fire</dc:title>
+                <dc:identifier>bk. 1</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Bantam Books</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>George R. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>George R. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_7"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Fantasy fiction</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A game of thrones</dc:title>
+        <dc:date>1996</dc:date>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>PS3563.A7239 G36 1996</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-553-10354-0</dc:identifier>
+        <z:numPages>694</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_7">
+        <rdf:value>Includes two maps covering the territory of A game of thrones on endpapers</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-0-553-10663-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Bk. 3 of A song of ice and fire</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Bantam Books</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>George R. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>George R. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Fantasy fiction</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A storm of swords</dc:title>
+        <dc:date>2000</dc:date>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>PS3563.A7239 S7 2000</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-553-10663-3</dc:identifier>
+        <z:numPages>973</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-0-553-80150-7">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Bantam Books</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>George R. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A feast for crows: Book Four, A Song of Ice and Fire</dc:title>
+        <dcterms:abstract>The uneasy peace that exists following the death of Robb Stark is threatened by new plots, intrigues, and alliances that once again will plunge the Seven Kingdoms back into all-out war for control of the Iron Throne</dcterms:abstract>
+        <dc:date>2005</dc:date>
+        <z:language>eng</z:language>
+        <z:shortTitle>A feast for crows</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <dc:description>OCLC: 1141744643</dc:description>
+        <dc:identifier>ISBN 978-0-553-80150-7</dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-0-553-80147-7">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>A song of ice and fire / George R. R. Martin</dc:title>
+                <dc:identifier>Book 5</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York, NY</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Bantam Books</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>George R. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>George R. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A dance with dragons</dc:title>
+        <dc:date>2011</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-0-553-80147-7</dc:identifier>
+        <z:numPages>1016</z:numPages>
+    </bib:Book>
+    <rdf:Description rdf:about="https://de.wikipedia.org/w/index.php?title=A_Game_of_Thrones&amp;oldid=232818992">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Wikipedia</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_12"/>
+        <dc:title>A Game of Thrones</dc:title>
+        <dcterms:abstract>A Game of Thrones (dt. Ein Spiel der Throne oder Ein Spiel um Throne) ist der erste Band der Fantasysaga Das Lied von Eis und Feuer des US-amerikanischen Autors George R. R. Martin. Der Roman wurde am 6. August 1996 veröffentlicht. Der Titel spielt auf den politischen Machtkampf an, vor allem in Hinblick auf den Eisernen Thron der Sieben Königslande des Kontinentes Westeros. In Deutschland erschien der Originalband getrennt in den beiden Bänden Die Herren von Winterfell und Das Erbe von Winterfell, wieder vereint als Game of Thrones 1: Der Winter naht. Der Roman präsentiert mehrere personale Erzähler. A Game of Thrones gewann mehrere Literaturpreise des Fantasygenres. Mit der Adaption der Saga als Fernsehserie Game of Thrones durch HBO wurden der Roman und seine Nachfolgebände 2011 Bestseller. Auf A Game of Thrones basieren mehrere Brettspiele (unter anderem Der Eiserne Thron) und ein Rollenspiel.</dcterms:abstract>
+        <dc:date>2023-04-14T15:18:08Z</dc:date>
+        <z:language>de</z:language>
+        <z:libraryCatalog>Wikipedia</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://de.wikipedia.org/w/index.php?title=A_Game_of_Thrones&amp;oldid=232818992</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-30 13:39:57</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:description>Page Version ID: 232818992</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://de.wikipedia.org/wiki/A_Game_of_Thrones</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-30 13:40:02</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
