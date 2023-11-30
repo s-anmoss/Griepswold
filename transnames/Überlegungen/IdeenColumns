@@ -1,0 +1,26 @@
+## Befragung
+- Name
+- Erst- oder Zweitname
+- Jahrgang
+- WahlJahr
+- Geschlechtsidentität
+- selbstgewählt?/ von Eltern gewählt?
+
+## Recherche
+- NameGeschlechtsrezeption
+- Ranking (tibblejoin in R, falls passende Datenbank auffindbar)
+  - Geburtsjahr
+  - WahlJahr
+
+## Analyse händisch
+- Silbentrennung (z.B. "jo na"
+- Betonung
+
+## Analyse in R
+- Buchstabenanzahl
+- Silbenanzahl
+- offene / geschlossene Silben
+- Anfangsbuchstabe
+- Endbuchstabe
+- Vokalanteil
+- Konsonantenarten (evtl jede Art eine Column?)
