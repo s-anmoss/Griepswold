@@ -10,9 +10,10 @@ Exemplarisches Projekt zu selbstgewälten Namen von Transpersonen. Damit sollen 
 
 ## Unterordner:
 - Literaturdatenbank
+- Vorüberlegungen
+  - ethischer Art
+  - inhaltlicher Art
 - Datenerhebung
-  - ethische Vorüberlegungen
-  - inhaltliche Vorüberlegungen
   - Umfragebogen
   - Metadaten
 - Datenauswertung
