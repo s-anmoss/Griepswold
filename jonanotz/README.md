@@ -8,7 +8,7 @@
 ### Portfolio
 - Projekt
   - zusammen bearbeitet mit janapith
-  - in der file *transnames* zu finden
+  - in der file *Griepswold / transnames* zu finden
 - Prüfung
   - Benotung nur des Portfolios (keine mündl. Prüfung) benötigt
   - Verlängerung der Abgabefrist wegen OP auf Mitte Januar benötigt
