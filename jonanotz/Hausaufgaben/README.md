@@ -1,6 +1,7 @@
 # Hausaufgaben von jonanotz
 - Übungen mit ELAN (Dateiformat .eaf)im Rahmen des Seminars *Digitale Methoden der empirischen Sprachwissenschaft*
--  verwendete Audiodatei: 19350522HH1800wSchoneiche_14290200.waf (lokal gespeichert)
+- verwendete Audiodatei: 19350522HH1800wSchoneiche_14290200.waf (lokal gespeichert)
+- Aufgabe zur Bib-Literaturdatenbank siehe *transnames/Literaturdatenbank/Hausaufgabe-2023-12-01.bib*
 
 ### Dateien:
 (benannt nach Datum, zu dem die Aufgabe zu bearbeiten war)
