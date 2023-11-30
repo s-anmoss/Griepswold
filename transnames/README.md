@@ -1,12 +1,21 @@
-bearbeitet von: jonanotz, janapith
-Benotung des Portfolios nötig für jonanotz
+# Projektdokumentation 
+bearbeitet von: janapith, jonanotz
 
-Projektidee: selbstgewälte Namen von Transpersonen
-Fragestellungen: 
+## Projektidee:
+Exemplarisches Projekt zu selbstgewälten Namen von Transpersonen. Damit sollen im Seminar *Digitale Methoden der empirischen Sprachwissenschaft* erworbene Kenntnisse zur Datenarbeit demonstriert werden.
+
+## Fragestellungen: 
 - Trends bei Namenswahl
 - Vergleich mit Babynamen mittels Ranking
 
-Unterordner:
-- Sekundärliteratur
-- Datenerhebung (ethische Vorüberlegungen, Umfragebogen, Metadaten)
-- Datenauswertung (Code in R, Grafiken, Schlussfolgerungen)
+## Unterordner:
+- Literaturdatenbank
+- Datenerhebung
+  - ethische Vorüberlegungen
+  - inhaltliche Vorüberlegungen
+  - Umfragebogen
+  - Metadaten
+- Datenauswertung
+  - Datenanalyse (Code in R)
+  - Grafiken
+  - Schlussfolgerungen
