@@ -10,4 +10,3 @@
   - Transkription: deutsch orthographisch, englisch übersetzt
   - Tier-Struktur
   - Identifkator je Intonationseinheit
-  - Tokenisierung
