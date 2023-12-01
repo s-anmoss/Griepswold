@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-11-26T12:53:40+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/annet/Downloads/19350522HH1800wSchoneiche_14290200.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../Downloads/19350522HH1800wSchoneiche_14290200.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b44c77c7-3cbf-464b-b8f5-2cb12d01f918</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">48</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4547"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4547"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4547"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="4547"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="10410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="10410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="10410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="12338"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="12338"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="12338"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="12338"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="16858"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="16858"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="16858"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="16870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="19210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="19210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="19220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="19220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="20920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="20920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="20920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="20920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="24100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="24100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="24105"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="24105"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="26015"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="26015"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="26020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="26020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="28320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="28320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="28325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="28325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="29905"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="29905"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="29920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="29920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="32060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="32060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="32065"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="32065"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="35355"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="35355"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="transcript" TIER_ID="transcript">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Ich komme von -</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>1896 da hab ich mich verheiratet und 97' da war schon ein kleines Mädchen da</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Und in vier Jahren ein kleiner Jung</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Sie sind ja nun schon alle groß und sind verheiratet und haben schon selber Kinder</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>Und mein Mann war ein ganzes Jahr krank -</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Aber der schlupft schon unter der Erde</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Und mein Schiegervater, das war ein ganz anderer Kerl gewesen</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>Der 104 Jahr' alt geworden</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Und war ein seinem Leben fast gar nicht krank</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>Und wo er eingesegnet war</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>Da hat ihm das ganze Gehöft abgebrannt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Da hat er müssen umher fahren, nach die anderen Dörfer betteln</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="refT" TIER_ID="ref">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>Frau Huschke 1</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Frau Huschke 2</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>Frau Huschke 3</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Frau Huschke 4</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>Frau Huschke 5</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>Frau Huschke 6</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Frau Huschke 7</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Frau Huschke 8</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Frau Huschke 9</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Frau Huschke 10</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Frau Huschke 11</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Frau Huschke 12</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="orthT" PARENT_REF="ref" TIER_ID="orth">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Ich komme von Schöneiche und werde euch mal ein bisschen erzählen</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>1896 da hab ich mich verheitratet und 97' da war schon ein kleines Mädchen da</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Und in vier Jahren ein kleiner Jung</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Sie sind ja nun schon alle groß und sind verheiratet und haben schon selber Kinder</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Und mein Mann war ein ganzes Jahr krank</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Aber der schlupft schon unter der Erde</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Und mein Schiegervater, das war ein ganz anderer Kerl gewesen</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Der 104 Jahre alt geworden</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>Und war in seinem Leben fast gar nicht krank</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Und wo er eingeseget war</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Da ist ihnen der gesamte Hof abgebrannt</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>Da musste er zu den anderen Dörfern fahren, um zu betteln</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="ft-engT" PARENT_REF="orth" TIER_ID="ft-eng">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>I'm from Schöneiche and will tell you something</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>I got married in 1896 and in 97' we had a little girl</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>And four years later a little boy</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>They are all grown up now and have kids of their own</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>And my husband was sick for a whole year</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>But he is already asleep under the ground</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>And my father in law was a very different guy</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>He lived until the age of 104</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>And was never really sick </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>And after his conformation happend</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>Their whole farm burned down</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>So he had to drive to the other villages to beg</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="transcript" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="refT" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orthT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-engT" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
