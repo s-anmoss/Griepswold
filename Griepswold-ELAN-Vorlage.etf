@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-11-24T13:21:56+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-12-01T12:52:39+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
-    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds"/>
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/micharie/Library/CloudStorage/OneDrive-UniversityofEasternFinland/Flamingish/Corpus/19350522HH1800wSchoneiche_14290200/19350522HH1800wSchoneiche_14290200.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../Library/CloudStorage/OneDrive-UniversityofEasternFinland/Flamingish/Corpus/19350522HH1800wSchoneiche_14290200/19350522HH1800wSchoneiche_14290200.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:186ee5af-4574-4b73-bab5-e8ca81df5efd</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">0</PROPERTY>
+    </HEADER>
     <TIME_ORDER/>
     <TIER LINGUISTIC_TYPE_REF="refT" TIER_ID="ref"/>
     <TIER LINGUISTIC_TYPE_REF="orthT" PARENT_REF="ref" TIER_ID="orth"/>
     <TIER LINGUISTIC_TYPE_REF="ft-engT" PARENT_REF="orth" TIER_ID="ft-eng"/>
+    <TIER LINGUISTIC_TYPE_REF="wordT" PARENT_REF="orth" TIER_ID="word"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
         LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
@@ -15,6 +22,8 @@
         GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orthT" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
         GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft-engT" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="wordT" TIME_ALIGNABLE="false"/>
     <CONSTRAINT
         DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
     <CONSTRAINT
