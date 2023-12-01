@@ -1,3 +1,3 @@
-Unter meinem Namen befindet sich das Portfolio von Annett, Laetizia, Charlotte und Selina.
+Unter meinem Namen befindet sich das __Portfolio von Annett, Laetizia, Charlotte und Selina__.
 
-Weiterhin beeinhaltet mein Ordner die ELAN-Hausaufgabe, meine eigene ELAN-Vorlage sowie meine Literaturdatenbank.
+Weiterhin beeinhaltet mein Ordner die _ELAN-Hausaufgabe, meine eigene ELAN-Vorlage_ sowie meine _Literaturdatenbank_.
