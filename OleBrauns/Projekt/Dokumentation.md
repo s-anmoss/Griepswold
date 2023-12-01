@@ -1,1 +1,3 @@
+# Dokumentation für das Projekt *Agentivittätsranking*
 
+1. Die Datei *Literaturliste Semantische Rollen* wurde via Citavi über den Suchbegriff *Semantische Rollen* über die Rechercheressourcen Universitätsbibliothek Greifswald und WorldCat erstellt. Titel, die nicht deutsch- oder englischspraching sind oder sich statt mit Linguistik mit Computerwissenschaft oder Data Science beschäftigen wurden händisch entfernt. Schlagwörter wurden mit exportiert. Fehlende Informationen (vor allem Autoren und Erscheinungsorte- und Daten) werden noch in einer zweiten Recherchephase soweit wie möglich ergänzt.
