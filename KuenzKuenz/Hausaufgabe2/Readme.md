@@ -17,4 +17,4 @@ So. This is my second Elan-file for [coughs] the seminar, eh, "Digitale Methoden
 
 
 
-Die Datei "Screenshot_Tiers" soll (auch mir selbst) zeigen, dass ich die Zeilen miteinander verknüpft und das Template (hoffentlich) erfolgreich importiert und benutzt habe. Sie wurde erstellt, bevor ich darüber informiert wurde, dass die eaf-Datei auch ohne dazugehöriges Audio in ELAN betrachtet werden kann. 
+
