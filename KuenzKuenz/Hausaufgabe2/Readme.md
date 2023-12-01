@@ -4,11 +4,11 @@ Die Dateien mit dem Namen "Hausaufgabe_ELAN_Juliane Künzel" beinhalten die Tran
 
 Die Tranksription sieht folgendermaßen aus:
 
-*orth_Tranksript*
+orth:
 
 So. Das ist meine zweite Elan-Datei für [hustet] das Seminar, äh, "Digitale Methoden". Ich bin immer noch krank und, äh, kann deswegen nicht am Seminar teilnehmen, aber dafür hole ich die Hausaufgabe jetzt hiermit nach. Es wird bestimmt eine helle Freude, das alles auf englisch zu übersetzen. Vielen Dank für's Zuhören. [schnaubt] An mich selbst, I guess. 
 
 
-*engl_Übersetzung*
 
+engl:
 So. This is my second Elan-file for [coughs] the seminar, eh, "Digitale Methoden" [Digital Methods]. I'm still sick and, eh, can't participate with the seminar, but I'm catching up on the homework now with this. It will certainly be a delight to translate all of this into english. Thank you for listening. [scoffs] To myself, I guess. 
