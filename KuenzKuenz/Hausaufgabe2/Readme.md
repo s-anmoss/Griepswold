@@ -2,6 +2,8 @@ Die Datei "semantischeRollen_Bib" wurde aus meinem Citavi-Projekt zu semantische
 
 Die Dateien mit dem Namen "Hausaufgabe_ELAN_Juliane Künzel" beinhalten die Transkription einer Aufnahme vom 01.12.2023. Juliane K., die die Aufnahme in Greifswald einsprach, ist Muttersprachlerin und zum Zeitpunkt der Aufnahme an Covid erkrankt, was sich sowohl auf ihre intellektuelle als auch sprachliche Leistung auswirkt.
 
+Die Zeilen/Annotationen in dieser Datei entsprechen der Vorlage, sollten miteinander verknüpft sein und eine Token-Annotation wurde ebenfalls erstellt. 
+
 Die Tranksription sieht folgendermaßen aus:
 
 orth:
