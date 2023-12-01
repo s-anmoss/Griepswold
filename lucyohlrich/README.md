@@ -1,2 +1,2 @@
 # Gruppe:
-- mit Ida Köppe und Lara Buske
+- mit Ida(Freitag11) und Lara(lsbsk)
