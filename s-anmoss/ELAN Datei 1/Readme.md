@@ -1,3 +1,10 @@
+Aufgaben:
+1.Audiodatei (wav) lokal auf dem rechner speichern
+2.ELAN-Datei (eaf) unter Deinem Ordner Speichern in GitHub Speichern
+3. Dokumentation anlegen (readme.md)
+4. 2 Intonationseinheiten (z.B. 10-20 wörter) transkribieren
+
+
 Ich komme von Schöneiche und werde euch man ein bißchen erzählen.
 Achtzehnhundertsechsundneunzig da hab' ich mich verheiratet und siebenundneunzig da war schon ein kleines Mädchen da, und bei (nach) vier Jahren ein kleiner Junge.
 Sie sind ja nun schon alle groß und sind verheiratet und haben schon selber Kinder.
