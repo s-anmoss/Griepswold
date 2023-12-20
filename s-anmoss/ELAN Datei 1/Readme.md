@@ -1,8 +1,12 @@
 Aufgaben:
-1.Audiodatei (wav) lokal auf dem rechner speichern
-2.ELAN-Datei (eaf) unter Deinem Ordner Speichern in GitHub Speichern
-3. Dokumentation anlegen (readme.md)
-4. 2 Intonationseinheiten (z.B. 10-20 wörter) transkribieren
+
+1. Benutzernamen anlegen in Github
+2. ELAN installieren
+3. Eine beliebige Audiodatei exemplarisch in ELAN annotieren
+4. Audiodatei (wav) lokal auf dem rechner speichern
+5. ELAN-Datei (eaf) unter Deinem Ordner Speichern in GitHub Speichern
+6. Dokumentation anlegen (readme.md)
+7. 2 Intonationseinheiten (z.B. 10-20 wörter) transkribieren
 
 
 Ich komme von Schöneiche und werde euch man ein bißchen erzählen.
